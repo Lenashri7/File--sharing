@@ -27,13 +27,3 @@ This frontend was built using the following technologies:
 - CSS
 - JavaScript
 
-## Preview
-<img width="540" alt="" src="https://github.com/getlost01/link-share/assets/79409258/a91aa4ce-5605-4778-a660-5fe47b85b2fd">
-<img width="540" alt="" src="https://github.com/getlost01/link-share/assets/79409258/56bea634-3d47-45a1-8956-ec31282f0fe6">
-<img width="540" alt="" src="https://github.com/getlost01/link-share/assets/79409258/b47f4cfa-6d47-4ea7-9da7-f99563029dcb">
-
-
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
